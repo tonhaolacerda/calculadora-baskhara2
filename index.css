@@ -1,0 +1,43 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+input, button {
+  display: block;
+  width: 100%;
+  margin: 10px 0;
+  padding: 8px;
+  font-size: 16px;
+}
+
+button {
+  cursor: pointer;
+}
+
+#resultado {
+  margin-top: 10px;
+  font-weight: bold;
+}
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  background-color: red;
+}
+
+input, button {
+  display: block;
+  width: 100%;
+  margin: 10px 0;
+  padding: 8px;
+  font-size: 16px;
+}
+
+button {
+  cursor: pointer;
+}
+
+#resultado {
+  margin-top: 10px;
+  font-weight: bold;
+}
